@@ -35,8 +35,11 @@ It features a modern navbar, hero section, profile image, and clean UI/UX design
 
 
 portfolio-landing-page/
+
 │
+
 ├── index.html   # Main landing page
+
 ├── README.md    # Project documentation
 
 
